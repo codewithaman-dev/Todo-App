@@ -62,14 +62,7 @@ Todo-App/
 ## Screenshots
 
 ### Preview
-
-
-
-Example:
-
-```
 ![Todo App Screenshot](screenshot.png)
-```
 
 ---
 
